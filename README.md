@@ -8,11 +8,11 @@ I build interactive 3D applications, game systems, and blockchain-based solution
 
 ## 🎮 Game Development
 
-![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-Game%20Engine-black?logo=unrealengine)
 ![C#](https://img.shields.io/badge/C%23-Programming-purple?logo=csharp)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?logo=cplusplus)
-![WebGL](https://img.shields.io/badge/WebGL-Supported-orange)
+![WebGL](https://img.shields.io/badge/WebGL-000000?style=for-the-badge&logo=webgl&logoColor=white)
 
 Developing:
 - 3D simulations
