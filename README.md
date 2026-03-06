@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex Lee
+# 👋 Hi, I'm Alex
 
 🎮 Game Developer | ⛓ Blockchain Developer | 💻 Full Stack Engineer
 
@@ -72,4 +72,4 @@ Building:
 ## 📫 Contact
 
 - GitHub: https://github.com/krypyto
-- Portfolio: [Lee Bin(Alex Lee)](https://leebin.gamer.gd/)
+- Portfolio: [Alex)](https://leebin.gamer.gd/)
