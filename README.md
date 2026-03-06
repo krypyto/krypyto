@@ -48,12 +48,6 @@ Building:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krypyto&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krypyto&theme=tokyonight)
@@ -78,4 +72,4 @@ Building:
 ## 📫 Contact
 
 - GitHub: https://github.com/krypyto
-- Portfolio: [Your website](https://leebin.gamer.gd/)
+- Portfolio: [Lee Bin(Alex Lee)](https://leebin.gamer.gd/)
