@@ -72,4 +72,4 @@ Building:
 ## 📫 Contact
 
 - GitHub: https://github.com/krypyto
-- Portfolio: [Alex](https://leebin.gamer.gd/)
+- Email: topdeveloper424@proton.me
