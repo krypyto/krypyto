@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alex
+# 👋 Hi, I'm a Full Stack/Top Developer.
 
 🎮 Game Developer | ⛓ Blockchain Developer | 💻 Full Stack Engineer
 
